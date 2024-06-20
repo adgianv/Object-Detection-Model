@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['person', 'tank']
+
+roboflow:
+  workspace: tank-4p1lf
+  project: tank-kq4tx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tank-4p1lf/tank-kq4tx/dataset/1
