@@ -1,0 +1,16 @@
+names:
+- TANK
+- IFV
+- APC
+- EV
+- AH
+- TH
+- AAP
+- TA
+- AA
+- TART
+- SPART
+nc: 11
+test: /Users/angelo/Object-Detection-Model/data/test
+train: /Users/angelo/Object-Detection-Model/data/train
+val: /Users/angelo/Object-Detection-Model/data/valid
