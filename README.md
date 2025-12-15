@@ -1,6 +1,6 @@
 # Anti-Gravity Object Detection Model
 
-A YOLOv8-based object detection model for military vehicles, converted from Jupyter notebooks to a deployable Python project.
+A YOLOv8-based object detection model for military vehicles
 
 ## Directory Structure
 ```
