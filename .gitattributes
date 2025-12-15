@@ -1,0 +1,5 @@
+# Python is real source code
+*.py linguist-detectable=true
+
+# Notebooks are auxiliary
+*.ipynb linguist-detectable=false
